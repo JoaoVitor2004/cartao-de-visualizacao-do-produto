@@ -11,4 +11,4 @@ Desafio desenvolvido apartir de um dos desafios do <a href="https://www.frontend
   - HTML
   - CSS
  
-<p>🔗 Link para acessar o <a href="">site</a></p>
+<p>🔗 Link para acessar o <a href="https://joaovitor2004.github.io/cartao-de-visualizacao-do-produto/">site</a></p>
